@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(255, 255, 255);
+    height : 100%;
+
+}
+.header{
+    width: 100%;
+    padding : 3% 3% 0;
+    margin : -3% 0 0 0;
+    color: white;
+    background-color: #6b6d6d;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    text-align: center;
+}
+.button-container{
+    margin: auto;
+    display: block;
+}
+.button{
+    color:white;
+    font-weight: bold;
+}
+.square {
+    width: 30%;
+    height: 30%;
+    float: left;
+    background: purple;
+    padding-bottom: 1.66%;
+    margin: 5px;
+}
+
+.container{
+    margin: 5px auto;
+    width: 600px;
+}
+.square-container{
+    text-align: center;
+}
+.message{
+    text-align: center;
+}
+.border{
+    border: solid;
+    border-color: grey;
+    border-width: 0.5px;
+}
+.footer-container{
+    background-color: #fff;
+}
+.foot{
+    font-family: 'Acme', sans-serif;
+}
+
+.hide{
+    display: none;
+}
