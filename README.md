@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*LbKSmvWtc1GsQJrG67hdIw.png" height="300px" width="300px"/>
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*LbKSmvWtc1GsQJrG67hdIw.png" height="500px" width="500px"/>
 
 <br ><hr>
 <html>
