@@ -34,8 +34,8 @@ p{
 }
 
 .container{
-    margin: 5px auto;
-    width: 600px;
+    margin: 5px 2px auto;
+    width: 100%;
 }
 .square-container{
     text-align: center;
@@ -48,8 +48,10 @@ p{
     border-color: grey;
     border-width: 0.5px;
 }
+
 .footer-container{
     background-color: #fff;
+    
 }
 .foot{
     font-family: 'Acme', sans-serif;
